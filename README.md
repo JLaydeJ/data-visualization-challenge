@@ -58,20 +58,20 @@ Calculate the final tumor volume of each mouse across four of the most promising
 - Determine outliers using the upper and lower bounds, then print the results.
 
 Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
-  ![outliers](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/d0ec7cc5-637e-4816-bae6-49f3647960f4)
+![outliers](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/d0ec7cc5-637e-4816-bae6-49f3647960f4)
 
 
 # Create a Line Plot and a Scatter Plot
 Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
-  ![line](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/f7236750-6ef3-4fb2-9d5c-559cc3fcbf68)
+![line](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/f7236750-6ef3-4fb2-9d5c-559cc3fcbf68)
 
 
 Generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
-  ![scatter1](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/a3e1bc24-3ca0-410c-b571-ccc772334473)
+![scatter1](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/a3e1bc24-3ca0-410c-b571-ccc772334473)
 
 
 # Calculate Correlation and Regression
 Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 
 Plot the linear regression model on top of the previous scatter plot.
-  ![scatter](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/59493ee2-5614-42a4-a6ea-2277d41c6e72)
+![scatter](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/59493ee2-5614-42a4-a6ea-2277d41c6e72)
