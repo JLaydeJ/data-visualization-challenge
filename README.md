@@ -5,7 +5,7 @@ Apply what you've learned about Matplotlib to a real-world situation and dataset
 # Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
-As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
+As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. This study aimed to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
@@ -26,11 +26,15 @@ Your summary statistics should include:
 - A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumor volume.
 
 # Create Bar Charts and Pie Charts
-Generate two bar charts. Both charts should be identical and show the total total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
+Generate two bar charts. Both charts should be identical and show the total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 
 - Create the first bar chart with the Pandas DataFrame.plot() method.
+  ![pandasbar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/ba986685-3014-4b79-adcf-c95256de0d74)
+
 
 - Create the second bar chart with Matplotlib's pyplot methods.
+  ![bar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/e0a6429c-ef12-44e4-b948-bfd66d1b0f87)
+
 
 Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 
@@ -47,7 +51,7 @@ Calculate the final tumor volume of each mouse across four of the most promising
 
 - Loop through each drug in the treatment list, locating the rows in the merged DataFrame that correspond to each treatment. Append the resulting final tumor volumes for each drug to the empty list.
 
-- Determine outliers by using the upper and lower bounds, and then print the results.
+- Determine outliers using the upper and lower bounds, then print the results.
 
 Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
