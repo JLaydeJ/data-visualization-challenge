@@ -29,11 +29,13 @@ Your summary statistics should include:
 Generate two bar charts. Both charts should be identical and show the total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 
 - Create the first bar chart with the Pandas DataFrame.plot() method.
-  ![pandasbar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/ba986685-3014-4b79-adcf-c95256de0d74)
+  ![pandasbar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/d42f2de8-4e86-4ad1-985c-52357218a5ec)
+
 
 
 - Create the second bar chart with Matplotlib's pyplot methods.
-  ![bar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/e0a6429c-ef12-44e4-b948-bfd66d1b0f87)
+  ![bar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/0e2ed9ba-6723-4e00-8293-6af8a3be8214)
+
 
 
 Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
