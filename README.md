@@ -29,7 +29,8 @@ Your summary statistics should include:
 Generate two bar charts. Both charts should be identical and show the total number of rows (Mouse ID/Timepoints) for each drug regimen throughout the study.
 
 - Create the first bar chart with the Pandas DataFrame.plot() method.
-  ![pandasbar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/d42f2de8-4e86-4ad1-985c-52357218a5ec)
+  ![pandasbar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/021a83a0-f17d-4e81-abb2-163e27e79b4c)
+
 
 
 
