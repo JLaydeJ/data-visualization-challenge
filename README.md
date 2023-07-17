@@ -33,20 +33,22 @@ Generate two bar charts. Both charts should be identical and show the total numb
 
 
 
-
 - Create the second bar chart with Matplotlib's pyplot methods.
-  ![bar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/0e2ed9ba-6723-4e00-8293-6af8a3be8214)
+  ![bar](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/1a8c0adb-3884-41be-9052-d018b8404cc4)
+
 
 
 
 Generate two pie charts. Both charts should be identical and show the distribution of female versus male mice in the study.
 
 - Create the first pie chart with the Pandas DataFrame.plot() method.
-  ![pie](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/cec44460-bcaf-4daa-afa2-673f9edc5d42)
+  ![pie](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/7766a3df-213a-401f-94a9-44f098069c00)
+
 
 
 - Create the second pie chart with Matplotlib's pyplot methods.
-  ![pie](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/96b13bfd-1976-4507-8d55-d9c53675b192)
+  ![pie](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/65528e68-4891-4470-b206-3bee404e7755)
+
 
 
 # Calculate Quartiles, Find Outliers, and Create a Box Plot
@@ -61,20 +63,24 @@ Calculate the final tumor volume of each mouse across four of the most promising
 - Determine outliers using the upper and lower bounds, then print the results.
 
 Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
-![outliers](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/d0ec7cc5-637e-4816-bae6-49f3647960f4)
+![outliers](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/af410a51-5b0f-465a-9601-4688989256be)
+
 
 
 # Create a Line Plot and a Scatter Plot
 Select a single mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
-![line](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/f7236750-6ef3-4fb2-9d5c-559cc3fcbf68)
+![line](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/35fb9eca-ab12-403e-8bd3-5539f50da288)
+
 
 
 Generate a scatter plot of mouse weight versus average observed tumor volume for the entire Capomulin treatment regimen.
-![scatter1](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/a3e1bc24-3ca0-410c-b571-ccc772334473)
+![scatter1](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/de920224-d5ee-4456-aaad-ec484924ad63)
+
 
 
 # Calculate Correlation and Regression
 Calculate the correlation coefficient and linear regression model between mouse weight and average observed tumor volume for the entire Capomulin treatment regimen.
 
 Plot the linear regression model on top of the previous scatter plot.
-![scatter](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/59493ee2-5614-42a4-a6ea-2277d41c6e72)
+![regression scatter](https://github.com/JLaydeJ/data-visualization-challenge/assets/134284646/651cf510-ee19-482b-a211-d79dff129e92)
+
